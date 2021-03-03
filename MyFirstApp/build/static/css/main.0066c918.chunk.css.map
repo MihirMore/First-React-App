@@ -1,0 +1,1 @@
+{"version":3,"sources":["Style.css"],"names":[],"mappings":"AAAA,UACI,wBAAwB,CACpB,0BAA0B,CAErB,oBAAoB,CACpB,gBACb","file":"main.0066c918.chunk.css","sourcesContent":["html, body {\r\n    -webkit-user-select:none; \r\n        -webkit-touch-callout:none; \r\n             -moz-user-select:none; \r\n             -ms-user-select:none; \r\n             user-select:none;  \r\n}"]}
