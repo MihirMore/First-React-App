@@ -215,18 +215,15 @@ class PersonCard extends Component {
               <Col span={2}>
                 <Icon
                   className="mt-1"
-                  //type="eye"
-                  //onClick={e => this.hideEmail(e)}
+                  
                 />
                 <Icon
                   className="mt-1"
-                  //type="eye"
-                  //onClick={p => this.hidePhone(p)}
+                  
                 />
                 <Icon
                   className="mt-1"
-                  //type="eye"
-                  //onClick={w => this.hideWeb(w)}
+                  
                 />
               </Col>
             </Row>

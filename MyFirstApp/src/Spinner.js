@@ -5,23 +5,15 @@ const Spinner = (props) => {
         <div className="display-3 container-fluid" >
 
             <style>
-                {'body {background: #780206; background: linear-gradient(to bottom, #e0eafc, #cfdef3); }'}
+                {'body {background: #f5f5f5; background: linear-gradient(to bottom, #f5f5f5, #cfdef3); }'}
             </style>
 
-            <div className="container">
-                <span className="text-center d-flex justify-content-center pt-5">
-                    <img alt="preloader" src="./giphy.gif"></img>
-                </span>
-
-                <div className="text-center d-flex justify-content-center pt-5">
-
-
-                    {props.msg}
+            <div class="d-flex justify-content-center">
+                <div class="spinner-border" role="status">
                 </div>
             </div>
-
-
-        </div>
+        </div>    
+        
     );
 }
 
